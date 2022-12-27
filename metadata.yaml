@@ -1,0 +1,35 @@
+_repo: The-ragged-edge-A-tale-of-ward-life-politics_69373
+_version: 0.0.1
+alternative_title: 'The ragged edge: A tale of ward life and politics'
+creator:
+  author:
+    agent_name: McIntyre, John T. (John Thomas)
+    alias: McIntyre, John Thomas
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69373'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t22b8vq1p&view=1up&seq=1&skin=2021
+pgterms:marc905: 20210830175632mcintyre
+pgterms:marc906: '1902'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: 'United States: McLure Phillips & Company,1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The ragged edge: A tale of ward life & politics'
+url: http://www.gutenberg.org/ebooks/69373
