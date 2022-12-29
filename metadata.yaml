@@ -1,6 +1,9 @@
 _repo: The-ragged-edge-A-tale-of-ward-life-politics_69373
 _version: 0.1.0
 alternative_title: 'The ragged edge: A tale of ward life and politics'
+covers:
+- cover_type: archival
+  image_path: 69373-h/images/cover.jpg
 creator:
   author:
     agent_name: McIntyre, John T. (John Thomas)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4311
     wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69373#The-ragged-edge-A-tale-of-ward-life-politics
 gutenberg_issued: '2022-11-18'
 identifiers:
   gutenberg: '69373'
